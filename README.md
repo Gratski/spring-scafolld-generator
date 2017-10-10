@@ -1,0 +1,1 @@
+# spring-scafolld-generator
