@@ -3,7 +3,7 @@
 ### A Maven project with the following data structure:
 - FOLDER_NAME
   - GROUP_ID.parent/
-    - GROUP_ID.persistence/
+    - GROUP_ID.persistence/
     - GROUP_ID.business/
     - GROUP_ID.dto/
     - GROUP_ID.rest/
