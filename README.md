@@ -4,9 +4,9 @@
 - FOLDER_NAME
   - GROUP_ID.parent/
     - GROUP_ID.persistence/
-    - GROUP_ID.business/
-    - GROUP_ID.dto/
-    - GROUP_ID.rest/
+    - GROUP_ID.business/
+    - GROUP_ID.dto/
+    - GROUP_ID.rest/
     - pom.xml
   
 Each folder under <groupId>.parent is a module and it has the following data structure:
