@@ -21,6 +21,6 @@ Each folder under <groupId>.parent is a module and it has the following data str
 
 ## To run the generator
 ### Unzip the content
-### Run: java com.voxel.generator.spring.v1.jar SpringProjectGenerator <folderName> <groupId>
+### Run: java -cp com.voxel.generator.spring-v1.jar com.voxel.generator.spring.SpringProjectGenerator FOLDER_NAME MAVEN_GROUP_ID
 ### Build: mvn install
   
