@@ -27,7 +27,7 @@ Each folder under <groupId>.parent is a module and it has the following data str
     - test/
       - java
       - resources
-    - pom.xml
+  - pom.xml
 
 ## To run the generator
 ### Download the .jar file
